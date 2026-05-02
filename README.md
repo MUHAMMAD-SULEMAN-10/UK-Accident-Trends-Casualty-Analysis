@@ -206,8 +206,9 @@ Interactive Visualization
 
 …it highlights critical risk factors and supports road safety decision-making.
 
-👨‍💻 Author
 
+
+👨‍💻 Author
 Muhammad Suleman
 
 🎓 BS IT Graduate
