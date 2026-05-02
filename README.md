@@ -107,24 +107,42 @@ Risk by speed zones
 Comparative accident rates
 
 ⚠️ 11. Accident Severity
+
 Fatal vs serious vs slight
+
 📊 Visualizations
+
 📉 Line Charts
+
 📊 Bar Charts
+
 🔵 Scatter Plots
+
 📦 Histograms
+
 🥧 Pie Charts
+
 🗺️ Interactive Maps
+
 🌍 Geospatial Visualizations
+
 🔍 Major Insights
+
 📉 Accident Trends
+
 Overall decline in casualties (2005–2014)
 Slight increase around 2012
+
 🗺️ Regional Findings
+
 Highest: South East England
+
 Lowest: North East England
+
 ⏰ Time-Based Findings
+
 Peak hours:
+
 8 AM
 5 PM
 
