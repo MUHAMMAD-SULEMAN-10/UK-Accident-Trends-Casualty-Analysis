@@ -21,11 +21,14 @@ Road type and network analysis
 Environmental impact on accidents
 Urban vs rural comparison
 Accident severity distribution
+
 📂 Dataset Information
+
 📅 Time Range
 2005 – 2007
 2009 – 2011
 2012 – 2014
+
 📊 Dataset Features
 Accident locations
 Number of vehicles involved
@@ -38,6 +41,7 @@ Light conditions
 Highway authorities
 Urban/Rural classification
 Accident severity
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -47,6 +51,7 @@ Matplotlib
 Seaborn
 Plotly
 Jupyter Notebook
+
 🔄 Data Preprocessing
 Merged datasets from multiple years
 Removed columns with excessive missing values
@@ -56,39 +61,51 @@ Converted date/time into datetime format
 Hour
 Month
 Week in Month
+
 🔗 Data Enrichment
 Regional datasets
 Road network classification
 Highway authority mapping
+
 ❓ Key Questions Explored
 📈 1. Accident Trends
 How did accidents change from 2005–2014?
 What are the casualty trends?
+
 🗺️ 2. Regional Analysis
 Which regions are most/least dangerous?
 Regional trend differences
+
 🛣️ 3. Highway Authority Analysis
 Most dangerous authorities
 Safest authorities
+
 ⏰ 4. Time-Based Analysis
 Peak accident hours
 Weekday/month trends
+
 🚧 5. Road Network & Type
 Most dangerous road networks
 High-risk road types
+
 🌦️ 6. Environmental Conditions
 Impact of weather
 Road surface conditions
 Lighting conditions
+
 🚸 7. Pedestrian Crossing
 Influence on accident occurrence
+
 🚙 8. Casualty & Vehicle Distribution
 Vehicles per accident
 Casualties per accident
+
 ⚡ 9. Speed Limit Analysis
 Risk by speed zones
+
 🏙️ 10. Urban vs Rural
 Comparative accident rates
+
 ⚠️ 11. Accident Severity
 Fatal vs serious vs slight
 📊 Visualizations
@@ -124,9 +141,11 @@ Daylight
 Highest accidents at 30 mph
 🏙️ Urban vs Rural
 Urban areas had significantly more accidents
+
 ⚠️ Accident Severity
 Majority: Slight accidents
 Fatal accidents: Very small percentage
+
 📁 Project Structure
 UK-Road-Accident-Analysis/
 │
@@ -142,6 +161,7 @@ UK-Road-Accident-Analysis/
 │
 ├── images/
 └── README.md
+
 🎯 Conclusion
 
 This project provides a data-driven understanding of road accidents in the UK over a decade.
