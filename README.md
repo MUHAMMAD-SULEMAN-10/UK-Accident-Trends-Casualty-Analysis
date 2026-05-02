@@ -127,6 +127,7 @@ Lowest: North East England
 Peak hours:
 8 AM
 5 PM
+
 Highest day: Saturday
 🚧 Road Type Findings
 Single carriageways had highest accidents
@@ -137,6 +138,7 @@ Most accidents occurred during:
 Fine weather
 Dry roads
 Daylight
+
 ⚡ Speed Limit Findings
 Highest accidents at 30 mph
 🏙️ Urban vs Rural
@@ -147,19 +149,29 @@ Majority: Slight accidents
 Fatal accidents: Very small percentage
 
 📁 Project Structure
+
 UK-Road-Accident-Analysis/
 │
+
 ├── UK_road_accident_analytics.ipynb
 │
+
 ├── uk-data/
+
 │   ├── accidents_2005_to_2007.csv
+
 │   ├── accidents_2009_to_2011.csv
+
 │   ├── accidents_2012_to_2014.csv
+
 │   ├── LAD.csv
+
 │   ├── LAD3.csv
+
 │   └── LAD4.csv
 │
 ├── images/
+
 └── README.md
 
 🎯 Conclusion
@@ -169,7 +181,9 @@ This project provides a data-driven understanding of road accidents in the UK ov
 By combining:
 
 Exploratory Data Analysis (EDA)
+
 Geospatial Mapping
+
 Interactive Visualization
 
 …it highlights critical risk factors and supports road safety decision-making.
@@ -179,7 +193,9 @@ Interactive Visualization
 Muhammad Suleman
 
 🎓 BS IT Graduate
+
 📊 Aspiring Data Scientist
+
 ⭐ If You Like This Project
 
 Give it a ⭐ on GitHub and feel free to connect!
